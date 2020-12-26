@@ -1,0 +1,114 @@
+@media screen and (max-width: 1024px){
+    ul.main_nav {
+        display: none;
+    }
+    #side-nav{
+        display: block;
+    }
+    #menu-btn{
+        display: block;
+    }
+}
+@media screen and (max-width: 768px){
+    html{font-size: 57.5%;}
+    .span_1_of_2 {
+        /* width: 100%; */
+    }
+    .visa_card {
+        width: 70%;
+    }
+    .reward-text-box-wrapper{
+        left: 13%;
+    }
+    .row {
+        max-width: 80rem;
+        margin: 0 3rem;
+    }
+}
+@media screen and (max-width: 480px){
+    .hero-text-box {
+        margin-top: -8rem;
+        /* top: 0%; */
+    }
+    .partner-img {
+        width: 60%;
+        cursor: pointer;
+    }
+    .col.span_1_of_4.box.hey1 {
+        width: 23.8%;
+    }
+    .technology_section p{
+        margin-top: 1rem;
+    }
+    .btn.learn-more {
+        margin-top: 0rem;
+    }
+    .col.span_1_of_3.box.text-box{
+        margin-bottom: 0;
+    }
+    .platform-section{
+        padding-top: 0;
+    }
+    .cont-img {
+       
+        float: right;
+        margin-top: 2rem;
+    }
+    .con-box-texts{
+        top: 85%;
+    }
+    .con-box-texts h2{
+        width: 75%;
+        font-size:2rem;
+    }
+    a.btn.btn_hero1 {
+        font-size: 1rem;
+    }
+    .col.span_1_of_2.box.right-cont-wrap {
+        text-align: center;
+    }
+    .first-pricing-h2{
+        text-align: center;
+    }
+    .btn.try-now.view-more{
+        margin-bottom: 2rem;
+    }
+    .foot-li-cont{
+        display: none;
+    }
+    .contact-section{
+        padding-bottom: 0;
+    }
+    footer{
+        padding-top: 0;
+        text-align: center;
+    }
+    .footer-nav{
+        margin-top: 0;
+    }
+    section.ai-section {
+        display: none;
+    }
+    .juan-custom {
+        display: none;
+    }
+    .pro-p{
+        text-align: center;
+    }
+    a.btn.try-now.view-more.buy {
+        margin: 3rem auto;
+        margin-bottom: 4rem!important;
+    }
+    .col.span_1_of_2.box.prbox-1, .col.span_1_of_2.box.prbox-2 {
+        text-align: center;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        margin-bottom: 6rem;
+        padding-top: 7rem;
+        padding-bottom: 8rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+    .pricing-section{
+        text-align: center;
+    }
+}
